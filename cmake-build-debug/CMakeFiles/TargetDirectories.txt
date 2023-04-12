@@ -1,0 +1,3 @@
+D:/hagaosdjlfk/test_c++/c++_test3_github_gcc_cmake/test1_gcc_cmake/cmake-build-debug/CMakeFiles/MainProgram.dir
+D:/hagaosdjlfk/test_c++/c++_test3_github_gcc_cmake/test1_gcc_cmake/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/hagaosdjlfk/test_c++/c++_test3_github_gcc_cmake/test1_gcc_cmake/cmake-build-debug/CMakeFiles/rebuild_cache.dir
