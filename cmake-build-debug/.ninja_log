@@ -1,0 +1,9 @@
+# ninja log v5
+4	277	7031861496720154	test1_hello/CMakeFiles/testHello.dir/Test1_hello.obj	3e7aeabe34ef811e
+2	273	7031862652931589	CMakeFiles/MAIN_PROGRAM.dir/main.obj	78a51e823f7c7d5d
+1	122	7031864471265445	MAIN_PROGRAM.exe	a0b6bdbc5de5e2cc
+279	419	7031861498097987	test1_hello/libtestHello.dll	ef15dec4a27abe8f
+279	419	7031861498097987	test1_hello/libtestHello.dll.a	ef15dec4a27abe8f
+0	157	7031871321633542	build.ninja	81497d3172143f6c
+1	263	7031871341705850	CMakeFiles/MAIN_PROGRAM.dir/test1_hello/Test1_hello.obj	32f9b246d74c1efa
+264	386	7031871342906938	MAIN_PROGRAM.exe	ef1e7819a01c73b7

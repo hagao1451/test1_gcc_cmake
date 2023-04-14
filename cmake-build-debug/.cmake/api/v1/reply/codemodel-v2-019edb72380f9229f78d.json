@@ -1,0 +1,80 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "test1_hello",
+					"jsonFile" : "directory-test1_hello-Debug-d71406f9b3764d71d22b.json",
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "test1_hello",
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "test1_gcc_cmake",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "MAIN_PROGRAM::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MAIN_PROGRAM-Debug-6ccffe45be798e45aa91.json",
+					"name" : "MAIN_PROGRAM",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "testHello::@3d17562dad3dcb363019",
+					"jsonFile" : "target-testHello-Debug-9679ed1afd2538c12b6e.json",
+					"name" : "testHello",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/hagaosdjlfk/test_c++/c++_test4_github_gcc_cmake_01/test1_gcc_cmake/cmake-build-debug",
+		"source" : "D:/hagaosdjlfk/test_c++/c++_test4_github_gcc_cmake_01/test1_gcc_cmake"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

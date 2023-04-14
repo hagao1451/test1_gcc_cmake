@@ -1,0 +1,1 @@
+add_library(testHello SHARED Test1_hello.cpp)
