@@ -10,5 +10,6 @@ int main()
 	std::cout << "hello world!" << std::endl;
 	Test1_hello t1;
 	t1.PrintHello();
+	std::cout << "test2_git_clone\n";
 	return 0;
 }
